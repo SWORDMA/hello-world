@@ -1,2 +1,2 @@
 # hello-world
-Just starting out
+Just starting out in Ruby.
